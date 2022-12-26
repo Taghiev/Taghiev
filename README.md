@@ -19,15 +19,13 @@
     
 
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 I’m currently working on something cool 
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning Node JS
   
-- 👯 I’m looking to collaborate on Proyectos
+- 💬 Ask me about C#, JavaScript
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- ⚡ Fun fact: I Always try to learn something new and then sleep till it store in the brain
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href=><img width ='32px' src ='https://cnglobal.com.au/wp-content/uploads/2021/09/csharp_original_logo_icon_146578.png'> </a>
