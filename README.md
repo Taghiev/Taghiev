@@ -21,7 +21,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
     
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" />
+
 
 - 🔭 I’m currently working on  Soy Estudiante
   
