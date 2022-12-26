@@ -6,7 +6,7 @@
     </div>
 </p>
 
-<h1> Hi < / Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1> Hi < / Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1> ![](https://komarev.com/ghpvc/?username=Taghiev&style=for-the-badge)
 <h4>My name is Cavid. Thank You for taking the time to view my GitHub Profile :smile:</h4>
 
 
@@ -30,10 +30,9 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-    
-<br>
+   
 
-![](https://komarev.com/ghpvc/?username=Taghiev&style=for-the-badge)
+
     
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <h3 align="left">Connect with me:</h3>
