@@ -30,7 +30,7 @@
 - ⚡ Fun fact: Me gustan los girasoles.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href=><img width ='32px' src ='https://img.favpng.com/13/23/14/c-foreach-loop-while-loop-conditional-png-favpng-LKs4HkfcdgR64TbSHhtHVD7DK.jpg'> </a>
+<a href=><img width ='32px' src ='https://cnglobal.com.au/wp-content/uploads/2021/09/csharp_original_logo_icon_146578.png'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
