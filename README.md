@@ -34,7 +34,7 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href=><img width ='32px' src ='https://global-uploads.webflow.com/5f8b0a1abe69652278dad51c/635fe3cded9528398688f13c_2afe3f11.png'> </a>
+<a href=><img width ='32px' src ='https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
