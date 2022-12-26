@@ -31,7 +31,8 @@
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href=><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
-
+![](https://komarev.com/ghpvc/?username=Taghiev&style=flat-square)
+    
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
