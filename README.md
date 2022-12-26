@@ -6,7 +6,8 @@
     </div>
 </p>
 
-<h1> Hi < / Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1> ![](https://komarev.com/ghpvc/?username=Taghiev&style=for-the-badge)
+<h1> Hi < / Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1> 
+![](https://komarev.com/ghpvc/?username=Taghiev&style=for-the-badge)
 <h4>My name is Cavid. Thank You for taking the time to view my GitHub Profile :smile:</h4>
 
 
