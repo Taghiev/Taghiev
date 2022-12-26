@@ -1,5 +1,5 @@
 <p align="center">
-    <div align="center"><img width="200" src="https://scontent.fgyd20-1.fna.fbcdn.net/v/t39.30808-6/321928914_1197340777877378_2877802557219089452_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=qmalWHfYK4cAX91-bh0&_nc_ht=scontent.fgyd20-1.fna&oh=00_AfDWOAmpKD2O922fc2RlQ4QfLbonMUnIDB8sWYdcTbKz1g&oe=63AE9763"></div>
+    <div align="center"><img width="800" src="https://scontent.fgyd20-1.fna.fbcdn.net/v/t39.30808-6/321928914_1197340777877378_2877802557219089452_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=qmalWHfYK4cAX91-bh0&_nc_ht=scontent.fgyd20-1.fna&oh=00_AfDWOAmpKD2O922fc2RlQ4QfLbonMUnIDB8sWYdcTbKz1g&oe=63AE9763"></div>
     <div align="center" dir="auto">
       <a href="https://" rel="nofollow">
       <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
