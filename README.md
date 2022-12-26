@@ -7,8 +7,7 @@
 </p>
 
 <h1> Hi < / Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <h4>My name is Cavid. Thank You for taking the time to view my GitHub Profile :smile: </h4></h1>
-<p align='center'>
-</p>
+
 
 <h2> About Me </h2>
 
