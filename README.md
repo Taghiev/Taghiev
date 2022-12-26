@@ -1,5 +1,5 @@
 <p align="center">
-    <div style="border-radius:50%"><img width="200" src="https://avatars.githubusercontent.com/u/54390823?s=400&u=69d868fb4ab30ea2b8cd35b0c8dc3bfd0c8fb734&v=4"></div>
+    <div align="center"><img width="200" src="https://avatars.githubusercontent.com/u/54390823?s=400&u=69d868fb4ab30ea2b8cd35b0c8dc3bfd0c8fb734&v=4"></div>
     <div align="center" dir="auto">
       <a href="https://" rel="nofollow">
       <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
