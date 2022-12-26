@@ -10,7 +10,7 @@
 <p align='center'>
 </p>
 
-<div size='24px'> Hi! My name is Cavid. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='24px'> <h3>Hi! My name is Cavid. Thank You for taking the time to view my GitHub Profile :smile: </h3>
 </div>
 
 <h2> About Me <img src="" width = 100px></h2>
